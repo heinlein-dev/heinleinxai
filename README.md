@@ -1,5 +1,10 @@
 # HeinLein Ai 🤖
+
 <img src="https://i.ibb.co/674V4T9z/Frame-73-2.png" alt="Alt text">
+
+## Overview
+
+HeinleinxAI is a customizable AI chatbot framework that allows users to build and deploy AI-powered conversational agents. It includes support for running on X (Twitter) and offers flexible customization options. **Powered by Grok & HeinleinxAI.**
 
 ## 🚀 Quick Start
 
@@ -14,8 +19,8 @@
 ### Use the Starter (Recommended)
 
 ```bash
-git clone https://github.com/yktalks/heinlein.git
-cd heinlein_agent
+git clone https://github.com/heinlein-dev/heinleinxai
+cd heinleinxai
 cp .env.example .env
 pnpm i && pnpm build && pnpm start
 ```
@@ -78,7 +83,6 @@ pnpm clean
 ```
 
 <img src="https://i.ibb.co/YTwM32Wt/Grok-1.png" alt="Alt text">
-
 
 #### Additional Requirements
 
